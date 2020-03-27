@@ -41,7 +41,7 @@ header label{
     .menu{
         position: static;
         width: auto;
-        left: auto;
+        height: auto;
         transform: translateX(-100%);
         float: right;
         display: flex;

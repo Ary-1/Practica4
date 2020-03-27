@@ -15,11 +15,11 @@
     color: #fff;
 }
 
-#barnner h2{
+#banner h2{
     font-size: 28px;
 }
 
-#barnner a{
+#banner a{
     display: block;
     width: 100px;
     color: #fff;
@@ -29,7 +29,7 @@
     border: 3px solid #fff;
 }
 
-#barnner a:hover{
+#banner a:hover{
     background: rgba(51,51,51,0.5);
 }
 
